@@ -14,3 +14,6 @@ week02
 	git config --global user.name "hjkl"
 	git commit -m "v0"
 	git log
+	git branch -M main
+	git remote add origin https://github.com/chanjung0916/test.git
+	git push -u origin main
